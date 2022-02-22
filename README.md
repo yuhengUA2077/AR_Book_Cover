@@ -14,6 +14,7 @@ https://github.com/yuhengUA2077/AR_Book_Cover
 
 ## Demo Video Link
 https://youtu.be/f5f6w4fjWjY
+The video was recorded on HONOR View 20.
 
 ## Download APK
 https://vanderbilt365-my.sharepoint.com/:u:/g/personal/yuheng_shi_vanderbilt_edu/ET4r7XnB7DVLhAvdz4HpQvMBu571Wu9c5adwYJEav4NSTA?e=GLPyTy
