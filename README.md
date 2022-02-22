@@ -7,6 +7,7 @@ To interact with the code, download and save the "front_cover.jpg" and "back_cov
 ## Limitations
 * The original back cover of the book is unable to be used as an image target for too many repetitive patterns. Therefore a movie poster is used instead as the "back cover" of the book.
 * The virtual button feature for the back cover works more unstable on the smartphone camera than the laptop camera.
+* The Unity Project is too large to be pushed up to Github. The scene file and the C# script are committed instead as works.
 
 ## Demo Video Link
 https://youtu.be/f5f6w4fjWjY
