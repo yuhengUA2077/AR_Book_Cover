@@ -9,6 +9,9 @@ To interact with the code, download and save the "front_cover.jpg" and "back_cov
 * The virtual button feature for the back cover works more unstable on the smartphone camera than the laptop camera.
 * The Unity Project is too large to be pushed up to Github. The scene file and the C# script are committed instead as works.
 
+## GitHub Page
+https://github.com/yuhengUA2077/AR_Book_Cover
+
 ## Demo Video Link
 https://youtu.be/f5f6w4fjWjY
 
